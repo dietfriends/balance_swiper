@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
-import 'package:flutter_swiper/flutter_swiper.dart';
-import 'package:flutter_swiper/src/flutter_page_indicator/flutter_page_indicator.dart';
-import 'package:flutter_swiper/src/transformer_page_view/index_controller.dart';
+import 'package:balance_swiper/balance_swiper.dart';
+import 'package:balance_swiper/src/flutter_page_indicator/flutter_page_indicator.dart';
+import 'package:balance_swiper/src/transformer_page_view/index_controller.dart';
 import 'dart:async';
 
-import 'package:flutter_swiper/src/transformer_page_view/transformer_page_view.dart';
+import 'package:balance_swiper/src/transformer_page_view/transformer_page_view.dart';
 
 part 'custom_layout.dart';
 

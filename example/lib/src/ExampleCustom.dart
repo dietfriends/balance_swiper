@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_swiper/flutter_swiper.dart';
+import 'package:balance_swiper/balance_swiper.dart';
 import 'config.dart';
 import 'forms/form_widget.dart';
 

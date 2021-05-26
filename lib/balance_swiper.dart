@@ -1,4 +1,4 @@
-library flutter_swiper;
+library balance_swiper;
 
 export 'src/swiper.dart';
 export 'src/swiper_pagination.dart';
