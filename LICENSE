@@ -1,6 +1,11 @@
 MIT License
 
-Copyright (c) 2018 Xueliang Ren
+Copyright for portions of project balance_swiper are held by
+[Xueliang Ren, 2019] as part of project flutter_swiper.
+All other copyright for project balance_swiper are held by [Minsu Lee, 2021].
+
+Copyright (c) 2018-2019 Xueliang Ren
+Copyright (c) 2021 Minsu Lee
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

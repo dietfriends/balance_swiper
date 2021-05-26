@@ -1,3 +1,8 @@
+## [1.0.0] - [2021/05/27]
+
+- migrate to null safety
+
+# Forked from flutter_swiper
 
 ## [1.1.5] - [2019/03/10]
 
