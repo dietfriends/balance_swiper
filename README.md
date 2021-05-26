@@ -1,5 +1,3 @@
-![Logo](banner.jpg)
-
 [![Test](https://github.com/dietfriends/balance_swiper/actions/workflows/test.yaml/badge.svg)](https://github.com/dietfriends/balance_swiper/actions/workflows/test.yaml)
 [![codecov](https://codecov.io/gh/dietfriends/balance_swiper/branch/main/graph/badge.svg?token=pwz0WbL4CL)](https://codecov.io/gh/dietfriends/balance_swiper)
 [![pub package](https://img.shields.io/pub/v/balance_swiper.svg)](https://pub.dartlang.org/packages/balance_swiper)
